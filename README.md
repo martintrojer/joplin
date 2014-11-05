@@ -1,3 +1,5 @@
+This project has moved to the juxt organization. See [Juxt/Joplin](https://github.com/juxt/joplin)
+
 # Joplin
 
 *Joplin 0.3 contains many breaking changes over the 0.2 releases*, please [see here for details](https://github.com/juxt/joplin/wiki/Differences-between-0.2-and-0.3).
